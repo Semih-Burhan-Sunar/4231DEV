@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4231DEV
+- 👋 Hi, I’m @SemihBurhanSunar
 - 👀 I’m interested in programming and game programming
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on anything that can improve me in software
